@@ -1,0 +1,1 @@
+# Szakaszz-ro---linux
