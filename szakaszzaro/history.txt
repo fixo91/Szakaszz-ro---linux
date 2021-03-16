@@ -1,0 +1,1000 @@
+ 1085  node string.js
+ 1086  node tetelek.js
+ 1087  node string.js
+ 1088  node tetelek.js
+ 1089  node feladat1.js
+ 1090  node feladat2.js
+ 1091  node feladat3.js
+ 1092  node kulonfeladat2.js
+ 1093  node kulonfeladat1.js
+ 1094  ls
+ 1095  Day-5-scoopes-other
+ 1096  cd Day-5-scoopes-other
+ 1097  node test.js
+ 1098  node unio.js
+ 1099  ls
+ 1100  cd ..
+ 1101  Day-5-scopes-other
+ 1102  cd Day-5-scopes-other
+ 1103  node feladat1.js
+ 1104  feladat2.js
+ 1105  node feladat1.js
+ 1106  node feladat2.js
+ 1107  ls
+ 1108  ls -l
+ 1109  cd Documents
+ 1110  ls
+ 1111  cd ..
+ 1112  cd feladat2
+ 1113  ls
+ 1114  ls -l
+ 1115  cd ..
+ 1116  ls
+ 1117  cd ..
+ 1118  ls
+ 1119  cd etc
+ 1120  ls -l
+ 1121  cat passwd
+ 1122  grep login passwd
+ 1123  grep login fixo
+ 1124  grep fixo passwd
+ 1125  cd ..
+ 1126  ls
+ 1127  cd cdrom
+ 1128  ls
+ 1129  cd ..
+ 1130  pwd
+ 1131  tree /
+ 1132  clear
+ 1133  cd home/fixo911
+ 1134  ls
+ 1135  cd ..
+ 1136  ls
+ 1137  cd home
+ 1138  cd fixo91
+ 1139  ls
+ 1140  tree /home/fixo91
+ 1141  clear
+ 1142  ls
+ 1143  pwd
+ 1144  mkdir valami
+ 1145  rmdir valami
+ 1146  mkdir valami
+ 1147  mv valami fugedirobert
+ 1148  who
+ 1149  ip
+ 1150  ip adress
+ 1151  ip help
+ 1152  ip | adress
+ 1153  ip: adress
+ 1154  ips
+ 1155  01-Linux_tortenete.pdf
+ 1156  │   │   │   ├── 02-Linux_Rendszer_felepites.pdf
+ 1157  │   │   │   ├── 04-Linux_konyvtarszerkezet.pdf
+ 1158  │   │   │   ├── 05-Linux_konyvtarkezeles.pdf
+ 1159  │   │   │   ├── 06-Linux_fajlkezeles.pdf
+ 1160  │   │   │   ├── 07-Linux_jogosultsagok.pdf
+ 1161  │   │   │   ├── 08-Linux_Atiranyitas.pdf
+ 1162  │   │   │   ├── 09-Linux_Szurok.pdf
+ 1163  │   │   │   ├── 10-Linux_Kornyezet.pdf
+ 1164  │   │   │   ├── 11-Linux_Utvonal.pdf
+ 1165  │   │   │   ├── 15-Linux_REGEX.pdf
+ 1166  │   │   │   ├── 16-Linux_SSH.pdf
+ 1167  │   │   │   ├── 17-Linux_sftp_scp.pdf
+ 1168  │   │   │   └── slack-imgs.png
+ 1169  lsls
+ 1170  ls
+ 1171  cd Day-2-basics
+ 1172  node feladat7.js
+ 1173  node feladat11.js
+ 1174  cd ..
+ 1175  ls
+ 1176  Day-5-scopes-other
+ 1177  cd Day-5-scopes-other
+ 1178  node unio.js
+ 1179  Day-1-basics
+ 1180  cd Day-1-basics
+ 1181  node feladat4.js
+ 1182  cd Day-1-basics
+ 1183  node feladat4.js
+ 1184  cd Day-1-basics
+ 1185  node feladat4.js
+ 1186  cd Day-1-basics
+ 1187  node feladat4.js
+ 1188  cd Day-1-basics
+ 1189  node feladat4.js
+ 1190  node feladat1.js
+ 1191  node feladat2.js
+ 1192  node feladat3.js
+ 1193  node feladat9.js
+ 1194  cd ..
+ 1195  cd Day-2-selections-iterations
+ 1196  pwd
+ 1197  node feladat5.js
+ 1198  node feladat6.js
+ 1199  node feladat7.js
+ 1200  node feladat9.js
+ 1201  node fuggveny.js
+ 1202  cd ..
+ 1203  ls
+ 1204  cd Day-3-object-array
+ 1205  node array.js
+ 1206  node feladat1.js
+ 1207  node calculatorMain.js
+ 1208  node feladat1.js
+ 1209  node feladat2.js
+ 1210  node feladat3.js
+ 1211  node feladat4.js
+ 1212  pwd
+ 1213  ls
+ 1214  cd Day-2-selections-iterations
+ 1215  node feladat7.js
+ 1216  ls
+ 1217  tree /home/fixo91
+ 1218  mkdir tazi
+ 1219  rmdir tazi
+ 1220  ls -l
+ 1221  cd Day-5-scopes-other
+ 1222  node megszamlalas.js
+ 1223  node osszegzes.js
+ 1224  node megszamlalas.js
+ 1225  node maxmin.js
+ 1226  node megszamlalas.js
+ 1227  ls
+ 1228  node 4.eldontes.js
+ 1229  node 5.kereses.js
+ 1230  node 6.masolas.js
+ 1231  node 7.masolas.js
+ 1232  node 7.kivalogatas.js
+ 1233  node 8.szetvalogatas.js
+ 1234  node 9.metszet.js
+ 1235  node 10.unio.js
+ 1236  cd Day-5-scopes-other
+ 1237  node feladat2.js
+ 1238  hazifeladat3.js
+ 1239  node hazifeladat3.js
+ 1240  node hazifeladat2.js
+ 1241  Day-5-scopes/
+ 1242  Day-5-scopes-other
+ 1243  cd Day-5-scopes-other
+ 1244  node hazifeladat3.js
+ 1245  node hazifeladat2.js
+ 1246  ls
+ 1247  cd Day-6-gyakorlat
+ 1248  node feladat1.js
+ 1249  node feladat2.js
+ 1250  node feladat3.js
+ 1251  noded feladat2.js
+ 1252  node feladat2.js
+ 1253  cd ..
+ 1254  Day-5-scoper-other
+ 1255  cd Day-5-scoper-other
+ 1256  cd Day-5-scopes-other
+ 1257  node feladat2.js
+ 1258  node hazifeladat2.js
+ 1259  clear
+ 1260  node hazifeladat2.js
+ 1261  node hazifeladat1.js
+ 1262  node hazifeladat3.js
+ 1263  sudo apt install git
+ 1264  ssh-keygen -t ed25519 -C "fugiss91@gmail.com"
+ 1265  pwd
+ 1266  /.ssh/keys/personal/id_
+ 1267  /home/fixo91/.ssh
+ 1268  cd /home/fixo91/.ssh
+ 1269  ls
+ 1270  cat id_ed25519
+ 1271  cat id_ed25519.pub
+ 1272  ssh -T git@github.com
+ 1273  man git
+ 1274  pwd
+ 1275  ls -l
+ 1276  pwd
+ 1277  ls
+ 1278  cd kappa
+ 1279  ls -l
+ 1280  tree kappa
+ 1281  cd ..
+ 1282  tree /home/fixo91/kappa
+ 1283  who
+ 1284  pwd
+ 1285  cd ..
+ 1286  pwd
+ 1287  ls
+ 1288  cd ..
+ 1289  ls
+ 1290  cd etc
+ 1291  ls
+ 1292  cat etc/passwd
+ 1293  cat passwd
+ 1294  grep user passwd
+ 1295  grep login passwd
+ 1296  cd ..
+ 1297  ls
+ 1298  cd /home/fixo91
+ 1299  pwd
+ 1300  ls
+ 1301  mkdir Niki
+ 1302  mv Niki NikiValentin
+ 1303  rmdir NikiValentin
+ 1304  pwd
+ 1305  cd Day-6-gyakorlat
+ 1306  node feladat2.js
+ 1307  cd Day-6-gyakorlat
+ 1308  node feladat4.js
+ 1309  node feladat2.js
+ 1310  node feladat4.js
+ 1311  node feladat5.js
+ 1312  node feladat4.js
+ 1313  node feladat5.js
+ 1314  clear
+ 1315  cd Day-6-gyakorlat/-
+ 1316  pwd
+ 1317  ls
+ 1318  cd Day-6-gyakorlat
+ 1319  node feladat5.js
+ 1320  cd ..
+ 1321  cd Day-7-sort/
+ 1322  clear
+ 1323  node sort.js
+ 1324  cd Day-7-sort/
+ 1325  node sort.js
+ 1326  clear
+ 1327  node sort.js
+ 1328  node 2Darray.js
+ 1329  npm init
+ 1330  npm install chalk
+ 1331  node test.js
+ 1332  node 2Darray.js 
+ 1333  cd ..
+ 1334  cd Day-6-gyakorlat/
+ 1335  node feladat6.js
+ 1336  cd ..
+ 1337  cd Day-7-sort/
+ 1338  node gyakorlat1.js
+ 1339  clear
+ 1340  node gyakorlat1.js
+ 1341  clear
+ 1342  node gyakorlat1.js
+ 1343  cd Day-7-sort/
+ 1344  node gyakorlat1.js
+ 1345  cd ..
+ 1346  cd Day-5-scopes-other/
+ 1347  node 10.unio.js
+ 1348  node 9.metszet,js
+ 1349  node 9.metszet.js
+ 1350  node 10.unio.js
+ 1351  cd ..
+ 1352  cd Day-7-sort/
+ 1353  node gyakorlas1.js
+ 1354  node gyakorlat1.js
+ 1355  pwd
+ 1356  ls
+ 1357  ls -a
+ 1358  cd kappa
+ 1359  ls -a
+ 1360  cd ..
+ 1361  pwd
+ 1362  git clone git@github.com:fixo91/proba.git
+ 1363  ls
+ 1364  cd proba
+ 1365  ls
+ 1366  git status
+ 1367  git fetch
+ 1368  git status
+ 1369  git la
+ 1370  git man
+ 1371  git --help
+ 1372  cd Day-7-sort/
+ 1373  node gyakorlat1.js
+ 1374  clear
+ 1375  cd ..
+ 1376  cd Day-7
+ 1377  cd Day-7-gyakorlat
+ 1378  node gyakorlat1.js
+ 1379  cd Day-7-gyakorlat
+ 1380  node gyakorlat1.js
+ 1381  npm init
+ 1382  npm install readline-sync
+ 1383  node gyakorlat1.js
+ 1384  clear
+ 1385  node gyakorlat2.js
+ 1386  Day-8-read-timeout-recursion/
+ 1387  cd Day-8-read-timeout-recursion/
+ 1388  npm install table
+ 1389  npm install terminal-kit
+ 1390  npm install -g semistandard
+ 1391  clear
+ 1392  npm install -g semistandard
+ 1393  sudo npm install -g semistandard
+ 1394  cd ..
+ 1395  cd Day-8-gyakorlat/
+ 1396  node akasztofa.js
+ 1397  npm init
+ 1398  node akasztofa.js
+ 1399  npm install readline-sync
+ 1400  node akasztofa.js
+ 1401  npm install readline-sync
+ 1402  node akasztofa.js
+ 1403  cd Day-2-selections-iterations/
+ 1404  node feladat8.js
+ 1405  node feladat9.js
+ 1406  cd ..
+ 1407  cd Day-8-gyakorlat/
+ 1408  node akasztofa.js
+ 1409  cd Day-9-gyakorlat
+ 1410  npm init
+ 1411  node snowfall.js
+ 1412  npm install axel
+ 1413  node snowfall.js
+ 1414  pwd
+ 1415  git clone git@github.com:fixo91/proba2.git
+ 1416  pwd
+ 1417  ls
+ 1418  cd proba2
+ 1419  git add feladat1.js
+ 1420  git commit
+ 1421  x-special/nautilus-clipboard
+ 1422  copy
+ 1423  file:///home/fixo91/kappa/Day-3-object-array/feladat1.js
+ 1424  git config --global user.email fugiss91@gmail.com
+ 1425  git status
+ 1426  git commit
+ 1427  git push
+ 1428  git push origin mastergit remote add origin projfelh@valami.szerver.hu:proba.git
+ 1429  git remote add origin git@github.com:fixo91/proba2.git
+ 1430  git push origin master
+ 1431  git branch kiserleti
+ 1432  git checkout kiserleti
+ 1433  git add .
+ 1434  git commit
+ 1435  git checkout
+ 1436  git status
+ 1437  git diff master..kiserleti
+ 1438  git push
+ 1439  git push --set-upstream origin kiserleti
+ 1440  git add
+ 1441  git add .
+ 1442  git commit
+ 1443  git push --set-upstream origin kiserleti
+ 1444  git add .
+ 1445  git commit
+ 1446  git push --set-upstream origin kiserleti
+ 1447  pwd
+ 1448  cd ..
+ 1449  git clone git@github.com:flowacademyhu/kappa-pract-feb26.git
+ 1450  ls
+ 1451  cd kappa-pract-feb26/
+ 1452  ls
+ 1453  node main.js
+ 1454  nano main.js
+ 1455  git status
+ 1456  git branch
+ 1457  git branch fixo
+ 1458  git branch
+ 1459  git checkout fixo
+ 1460  git add main.js
+ 1461  git commit
+ 1462  git push
+ 1463  git push --set-upstream origin fixo
+ 1464  git pull origin main
+ 1465  ls
+ 1466  nano main.js
+ 1467  vim main.js
+ 1468  git status
+ 1469  git add main.js
+ 1470  git commit
+ 1471  git push
+ 1472  cd Day-7-sort
+ 1473  node gyakorlat1.js
+ 1474  cd ..
+ 1475  cd Day-7-sort
+ 1476  node 2Darray.js
+ 1477  cd ..
+ 1478  Day-7-gyakorlat/
+ 1479  node gyakorlat1.js
+ 1480  cd Day-7-gyakorlat/
+ 1481  node gyakorlat1.js
+ 1482  cd ..
+ 1483  cd Day-9-gyakorlat/
+ 1484  node index.js
+ 1485  npm install table
+ 1486  node index.js
+ 1487  cd ..
+ 1488  cd Day-8-gyakorlat/
+ 1489  node main.js
+ 1490  cd Day-4-string-programming/
+ 1491  node string.js
+ 1492  cd Day-5-scopes-other/
+ 1493  node feladat2.js
+ 1494  pwd
+ 1495  ls
+ 1496  mkdir git gyakorlat
+ 1497  cd git gyakorlat
+ 1498  ls
+ 1499  cd git gyakorlat
+ 1500  pwd
+ 1501  git clone https://github.com/hgarc014/git-game.git
+ 1502  ls
+ 1503  cd git-game
+ 1504  ls
+ 1505  cat readme.md
+ 1506  cat README.md
+ 1507  git log
+ 1508  pwd
+ 1509  git log --grep hello
+ 1510  git log --grep Hello
+ 1511  git co 640273807f9bac8af03575f82b788663d4b99927
+ 1512  git checkout 640273807f9bac8af03575f82b788663d4b99927
+ 1513  ls
+ 1514  cat README.md
+ 1515  git checkout bug
+ 1516  ls
+ 1517  cat README.md
+ 1518  git log --graph
+ 1519  git blame cool.cpp
+ 1520  git checkout LinusTorvalds2014
+ 1521  cat README.md
+ 1522  ls -a
+ 1523  cat .gitignore
+ 1524  git checkout tree
+ 1525  ls
+ 1526  cat README.md
+ 1527  ./outputclue.sh nextclue_input.cpp
+ 1528  ls -a
+ 1529  ./outputclue.sh nextclue_input.cpp
+ 1530  vim nextclue_input.cpp
+ 1531  git status
+ 1532  git pull code4life
+ 1533  git merge origin/code4life
+ 1534  git reset --hard
+ 1535  git status
+ 1536  git status
+ 1537  vim nextclue_input.cpp
+ 1538  ./outputclue.sh nextclue_input.cpp
+ 1539  git checkout mouse
+ 1540  git merge origin/code4life
+ 1541  ls
+ 1542  ./outputclue.sh nextclue_input.cpp
+ 1543  git checkout mouse
+ 1544  git status
+ 1545  vim nextclue_input.cpp
+ 1546  git add .
+ 1547  git commit
+ 1548  git status
+ 1549  ./outputclue.sh nextclue_input.cpp
+ 1550  git checkout mouse
+ 1551  cat README.md
+ 1552  git diff mouse bug -- remember
+ 1553  git tag HenryPoop && git tag -d Henry
+ 1554  git checkout Henry
+ 1555  cat README.md
+ 1556  git remote add updatefromhere https://github.com/drami025/git-game.git
+ 1557  git pull updatefromhere master
+ 1558  cat README.md
+ 1559  cd kappaman
+ 1560  node menu.js
+ 1561  cd kappaman
+ 1562  npm install terminal-kit
+ 1563  npm install redline-sync
+ 1564  node menu.js
+ 1565  npm install redline-sync
+ 1566  npm install table
+ 1567  npm install chalk
+ 1568  node map.js
+ 1569  npm install terminal-kit
+ 1570  npm init
+ 1571  npm install terminal-kit
+ 1572  node welcome-menu.js
+ 1573  pwd
+ 1574  mkdir kappaman
+ 1575  cd kappaman
+ 1576  git clone git@github.com:flowacademyhu/kappaman.git
+ 1577  pwd
+ 1578  ls
+ 1579  cd kappaman
+ 1580  node map.js
+ 1581  node welcome-menu.js 
+ 1582  node map.js
+ 1583  cd Day-8-gyakorlat/
+ 1584  node main.js
+ 1585  node welcome-menu.js
+ 1586  git status
+ 1587  clear
+ 1588  git init
+ 1589  pwd
+ 1590  git status
+ 1591  pwd
+ 1592  ls7
+ 1593  ls
+ 1594  cd kappaman
+ 1595  ls
+ 1596  cd kappaman
+ 1597  ls
+ 1598  git status
+ 1599  git pull
+ 1600  ls
+ 1601  git restore map.js
+ 1602  git status
+ 1603  git fetch
+ 1604  git pull
+ 1605  git remove map.js
+ 1606  wpwd
+ 1607  ls
+ 1608  remove map.js
+ 1609  rm map.js
+ 1610  git fetch
+ 1611  git pull
+ 1612  ls
+ 1613  node index.js
+ 1614  npm i readline-sync
+ 1615  node index.js
+ 1616  npm i axel
+ 1617  node index.js
+ 1618  clear
+ 1619  pwd
+ 1620  ls
+ 1621  cd kappaman
+ 1622  ls
+ 1623  node index.js
+ 1624  node index.js
+ 1625  node index.js
+ 1626  cd kappaman
+ 1627  node index.js
+ 1628  pwd
+ 1629  ls
+ 1630  node index.js
+ 1631  d ..
+ 1632  cd ..
+ 1633  s
+ 1634  cd ..
+ 1635  ls
+ 1636  ls -l
+ 1637  pwd
+ 1638  git init
+ 1639  cd ..
+ 1640  ls
+ 1641  ls -l
+ 1642  cd fixo91
+ 1643  ls -l
+ 1644  git clone https://github.com/git-game/git-game-v2.git
+ 1645  git status
+ 1646  ls -l
+ 1647  cd git-game-v2
+ 1648  ls
+ 1649  cat README.md
+ 1650  git checkout 780
+ 1651  git ls-files | xargs cat | wc -l
+ 1652  git ls-files | xargs wc -l
+ 1653  git checkout 6861
+ 1654  cat README.md
+ 1655  cd ..
+ 1656  pwd
+ 1657  ls
+ 1658  cd kappaman
+ 1659  node index.js
+ 1660  pwd
+ 1661  cd fixo91
+ 1662  ls
+ 1663  cd git-game-v2
+ 1664  ls
+ 1665  cat README.md
+ 1666  git log --pretty=oneline
+ 1667  git show 16a28de
+ 1668  git checkout showden
+ 1669  git chechout snowden
+ 1670  git checkout snowden
+ 1671  ls
+ 1672  cat README.md
+ 1673  node index.js
+ 1674  pwd
+ 1675  cd kappaman
+ 1676  node index.js
+ 1677  sudo apt-get update
+ 1678  sudo apt-get install netcat
+ 1679  sudo dpkg --configure -a
+ 1680  sudo apt-get install netcat
+ 1681  nc example.com 80
+ 1682  pwd
+ 1683  ls -l
+ 1684  cat hello.txt
+ 1685  mkdir halozatok
+ 1686  cd halozatok
+ 1687  nano .txt
+ 1688  ls
+ 1689  ls -l
+ 1690  apt-get install dnsutils
+ 1691  sudo apt-get install dnsutils
+ 1692  dig
+ 1693  dig google.com
+ 1694  dig facebook.com
+ 1695  nc -l 5000
+ 1696  ifconfig
+ 1697  sudo apt-get install net-tools
+ 1698  ifconfig
+ 1699  ifconfig | grep inet
+ 1700  nc 192.168.5.51 5000
+ 1701  nc localhost 5000
+ 1702  git init
+ 1703  git exit
+ 1704  cd ..
+ 1705  fixo91/kappaman/kappaman
+ 1706  ls
+ 1707  cd fixo91
+ 1708  cd kappaman
+ 1709  ls
+ 1710  node index.js
+ 1711  node index.js 
+ 1712  pwd
+ 1713  ls
+ 1714  cd kappaman
+ 1715  ls
+ 1716  lss -l
+ 1717  node index.js
+ 1718  ls
+ 1719  Day-8-gyakorlat/
+ 1720  cd Day-8-gyakorlat/
+ 1721  node main.js
+ 1722  cd ..
+ 1723  Day-7-sort/
+ 1724  cd Day-7-sort/
+ 1725  node gyakorlat1.js
+ 1726  cd kappaman
+ 1727  node index.js
+ 1728  pwd
+ 1729  cd Day-7-gyakorlat/
+ 1730  node gyakorlat1.js
+ 1731  pwd
+ 1732  cd kappaman
+ 1733  git status
+ 1734  git pull
+ 1735  git fetch
+ 1736  git pull
+ 1737  git status
+ 1738  git pull
+ 1739  git status
+ 1740  git pull
+ 1741  git add
+ 1742  git add ./
+ 1743  git stash
+ 1744  git status
+ 1745  git pull
+ 1746  node index.js
+ 1747  node gyakorlat1.js
+ 1748  cd Day-7-gyakorlat/
+ 1749  node gyakorlat1.js
+ 1750  cd ..
+ 1751  cd proba
+ 1752  node proba.js
+ 1753  npm init
+ 1754  node proba.js
+ 1755  npm init
+ 1756  node proba.js
+ 1757  npm i chalk
+ 1758  node proba.js
+ 1759  npm install ascii-art
+ 1760  npm install axel
+ 1761  cd kappaman
+ 1762  node index.js
+ 1763  git status
+ 1764  git add ./
+ 1765  git commit
+ 1766  git push
+ 1767  node index.js
+ 1768  git status
+ 1769  node index.js
+ 1770  cd ..
+ 1771  cd kappaman
+ 1772  rmdir -r kappaman
+ 1773  rm -r kappaman
+ 1774  ls -l
+ 1775  git status
+ 1776  cd ..
+ 1777  ls
+ 1778  cd kappaman2
+ 1779  git clone git@github.com:flowacademyhu/kappaman.git
+ 1780  ls
+ 1781  cd kappaman
+ 1782  node index.js
+ 1783  cd . .
+ 1784  cd ..
+ 1785  ls
+ 1786  cd ..
+ 1787  ls
+ 1788  cd kappaman
+ 1789  node index.js
+ 1790  [A
+ 1791  node index.js
+ 1792  cd proba
+ 1793  npm i cfonts
+ 1794  node proba.js
+ 1795  cd kappaman
+ 1796  node index.js
+ 1797  git status
+ 1798  git init
+ 1799  git status
+ 1800  clear
+ 1801  node index.js
+ 1802  clear
+ 1803  node index.js
+ 1804  clear
+ 1805  node index.js
+ 1806  sudo apt-get install mpg123
+ 1807  git status
+ 1808  git pull
+ 1809  git status
+ 1810  git
+ 1811  git pull
+ 1812  git status
+ 1813  ls
+ 1814  ls -l
+ 1815  git pull
+ 1816  git fetch
+ 1817  git pull
+ 1818  git status
+ 1819  CD ..
+ 1820  cd ..
+ 1821  cd..
+ 1822  cd ..
+ 1823  pwd
+ 1824  cd ..
+ 1825  npm i cfonts
+ 1826  cd kappaman
+ 1827  npm i cfonts
+ 1828  node index.js
+ 1829  cd kappaman
+ 1830  node gameover.js
+ 1831  node youwin.js
+ 1832  node gameover.js
+ 1833  clear
+ 1834  node youwin.js
+ 1835  npm i mpg123
+ 1836  clear
+ 1837  npm i readline-sync
+ 1838  npm i table
+ 1839  npm i chalk
+ 1840  npm i terminal-kit
+ 1841  npm i mpg123
+ 1842  npm i cfonts
+ 1843  npm i axel
+ 1844  git init
+ 1845  git status
+ 1846  clear
+ 1847  git init
+ 1848  git status
+ 1849  git checkout -b fixo
+ 1850  git add index.js
+ 1851  git commit
+ 1852  git push
+ 1853  git push --set-upstream origin fixo
+ 1854  git init
+ 1855  git clone git@github.com:flowacademyhu/kappaman.git
+ 1856  claer
+ 1857  clear
+ 1858  cd kappaman
+ 1859  ls
+ 1860  node index.js
+ 1861  cd kappaman
+ 1862  node index.js
+ 1863  cd kappaman
+ 1864  node index.js
+ 1865  git status
+ 1866  nano .gitignore
+ 1867  git add ./
+ 1868  git commit
+ 1869  git push
+ 1870  cd kappaman
+ 1871  node index.js
+ 1872  clear
+ 1873  node index.js
+ 1874  [A
+ 1875  node index.js
+ 1876  git init
+ 1877  git status
+ 1878  clear
+ 1879  cd kappaman
+ 1880  node index.js
+ 1881  git status
+ 1882  git checkout main
+ 1883  clear
+ 1884  cd kappaman
+ 1885  node index.js
+ 1886  cd kappaman
+ 1887  node index.js
+ 1888  cd kappaman
+ 1889  node index.js
+ 1890  [A
+ 1891  node index.js
+ 1892  git status
+ 1893  git pull
+ 1894  git restore ./
+ 1895  git pull origin main
+ 1896  git checkout main
+ 1897  git pull origin main
+ 1898  git restore ./
+ 1899  git pull
+ 1900  git stash
+ 1901  rm gameover.jpg
+ 1902  rm logo1.jpg
+ 1903  rm win.jpg
+ 1904  git pull
+ 1905  node index.js
+ 1906  cd kappaman
+ 1907  node index.js
+ 1908  cd kappaman
+ 1909  node index.js
+ 1910  git --help
+ 1911  man git-status
+ 1912  cd kappaman
+ 1913  ls
+ 1914  git status
+ 1915  git remote -v
+ 1916  git status
+ 1917  git remote -v
+ 1918  cd kappaman
+ 1919  git remote -v
+ 1920  cd kappaman
+ 1921  node index.js
+ 1922  cd kappaman
+ 1923  node index.js
+ 1924  pwd
+ 1925  cd ..
+ 1926  ls
+ 1927  cd imi
+ 1928  ls
+ 1929  cd ..
+ 1930  rmdir imi
+ 1931  rm -rf imi
+ 1932  sudo rm -rf imi
+ 1933  ls
+ 1934  cd feladat2
+ 1935  ls
+ 1936  cat ures.txt
+ 1937  cd ..
+ 1938  cd Test
+ 1939  ls
+ 1940  pwd
+ 1941  cd ..
+ 1942  gyakorlat
+ 1943  cd gyakorlat
+ 1944  ls
+ 1945  cd Proba
+ 1946  ls
+ 1947  cd test
+ 1948  ls
+ 1949  cd unix
+ 1950  ls
+ 1951  cd ..
+ 1952  cd .
+ 1953  cd ..
+ 1954  rmdir -p gyakorlat
+ 1955  rm -r gyakorlat
+ 1956  ls
+ 1957  sudo rm -rf gyakorlat
+ 1958  sudo rm -rf Test
+ 1959  sudo rm -rf feladat2
+ 1960  ls
+ 1961  cd fixo91
+ 1962  ls
+ 1963  cd proba
+ 1964  ls
+ 1965  cd ..
+ 1966  cd proba2
+ 1967  ls
+ 1968  cat feladat1.js
+ 1969  cd ..
+ 1970  ls
+ 1971  cd feladat2
+ 1972  ls
+ 1973  cat nemures.txt
+ 1974  cat greptest.txt
+ 1975  cat grepTest.txt
+ 1976  cd ..
+ 1977  ls
+ 1978  ls -la
+ 1979  history
+ 1980  cd Day-5-scopes-other/
+ 1981  node metszet.js
+ 1982  ls
+ 1983  node 9.metszet.js
+ 1984  cd ..
+ 1985  cd proba
+ 1986  node osszegzes.js
+ 1987  [A
+ 1988  node osszegzes.js
+ 1989  cd ..
+ 1990  cd Day-5-scopes-other/
+ 1991  node 10.unio.js
+ 1992  git status
+ 1993  cd ..
+ 1994  cd proba
+ 1995  ls
+ 1996  git status
+ 1997  pwd
+ 1998  ls
+ 1999  cd kappa
+ 2000  ls
+ 2001  pwd
+ 2002  cd ..
+ 2003  mkdir szakaszzaro
+ 2004  cd szakaszzaro
+ 2005  touch szakaszzaro_feladat
+ 2006  ls
+ 2007  echo "Hello" > szakaszzaro_feladat
+ 2008  mv szakaszzaro/_
+ 2009  echo "Hello" > szakaszzaro_feladat
+ 2010  mv szakaszzaro_feladat feladat
+ 2011  ls
+ 2012  cp feladat feladat2
+ 2013  rm feladat2
+ 2014  cat feladat
+ 2015  cd ..
+ 2016  ls
+ 2017  ls -l
+ 2018  ls
+ 2019  cd szakaszzaro
+ 2020  cd ..
+ 2021  ls
+ 2022  cd ..
+ 2023  ls
+ 2024  cat /var/log/syslog | grep Networkmanager >> ./home/fixo91/szakaszzaro/feladat.txt
+ 2025  pwd7
+ 2026  pwd
+ 2027  cd home
+ 2028  cd fixo91
+ 2029  pwd
+ 2030  ls
+ 2031  cd szakaszzaro
+ 2032  ls
+ 2033  git clone git@github.com:fixo91/Szakaszz-ro---linux.git
+ 2034  git add feladat
+ 2035  git add feladat.txt
+ 2036  git commit
+ 2037  git push
+ 2038  git push origin master
+ 2039  git remote add origin https://github.com/fixo91/Szakaszz-ro---linux
+ 2040  git push origin master
+ 2041  history
+ 2042  touch history
+ 2043  .bash_history
+ 2044  git status
+ 2045  cd Szakaszz-ro---linux
+ 2046  git status
+ 2047  git log
+ 2048  cd
+ 2049  git log
+ 2050  git checkout app
+ 2051  pwd
+ 2052  cd szakaszzaro
+ 2053  git clone git@github.com:fixo91/kappa-git-test.git
+ 2054  git log
+ 2055  git checkout app
+ 2056  git checkout master
+ 2057  git branch
+ 2058  git checkout branch app
+ 2059  git status
+ 2060  ls -l
+ 2061  pwd
+ 2062  ls
+ 2063  git clone git@github.com:fixo91/progalap.git
+ 2064  clear
+ 2065  ls
+ 2066  cd progalap
+ 2067  git status
+ 2068  git add ./
+ 2069  git commit
+ 2070  git push origin master
+ 2071  git push
+ 2072  cd ..
+ 2073  cd..
+ 2074  cd ..
+ 2075  /.bash_history
+ 2076  history
+ 2077  ls
+ 2078  cd szakaszzaro
+ 2079  git status
+ 2080  cat history > history.txt
+ 2081  cat history.txt
+ 2082  ls
+ 2083  cat history.txt
+ 2084  history | cat >> history.txt
