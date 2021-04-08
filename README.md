@@ -1,1 +1,1 @@
-# Szakaszz-ro---linux
+# Szakaszzaro - Linux
